@@ -103,4 +103,3 @@ This repository contains a simple shooting game created as a practice project. T
   </script>
 </body>
 </html>
-vvvv
